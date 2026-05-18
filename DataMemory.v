@@ -1,4 +1,4 @@
-module (
+module DataMemory(
     input             clk,
     input      [31:0] addr,
     input      [31:0] write_data,
