@@ -1,4 +1,4 @@
-module  (
+module ControlUnit (
     input  [6:0] opcode,
     output reg       MemRead,
     output reg       MemWrite,
