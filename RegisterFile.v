@@ -1,4 +1,4 @@
-module (
+module RegisterFile (
     input             clk,
     input             reset_n,
     input      [4:0]  rs1, rs2,
