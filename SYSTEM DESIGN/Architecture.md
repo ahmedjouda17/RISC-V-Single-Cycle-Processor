@@ -1,2 +1,1 @@
-![Uploading System Design.jpg…]()
 
