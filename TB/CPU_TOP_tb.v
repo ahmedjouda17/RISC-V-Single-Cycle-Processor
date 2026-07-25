@@ -14,7 +14,7 @@ module CPU_TOP_tb;
     initial begin 
         $display("Starting simulation...");
 
-        /
+       
      $readmemh(" path of file mem.dat  ", dut.instr_mem.memory);     // go to file mem.dat ex, C:/Users/ahmds/Desktop/RISC--V/ALU/mem.txt
         for (i = 0; i < 32; i = i + 1) begin
             dut.reg_file.regs[i] = 32'b0;       // Initialize register file to zero
