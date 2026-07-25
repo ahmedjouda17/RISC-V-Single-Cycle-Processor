@@ -1,0 +1,319 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/KW/Assignments/ASS VSC/ASS 4 EXTRA/Q4
+T_opt
+!s110 1785014048
+V>I^MQn^14h[A5WedEK_za0
+04 10 4 work CPU_TOP_tb fast 0
+=1-7c214acb176d-6a65271f-35d-4cbc
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vAdder32
+Z1 !s110 1785014037
+!i10b 1
+!s100 PQdG4MVMSZ]FfRM>6YL4h0
+IGAGEgGYLi@;_?gzToDh6C1
+Z2 dC:/Users/ahmds/Desktop/RISC--V/Questa
+w1784576378
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Adder32.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Adder32.v
+!i122 13
+L0 1 7
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z5 !s108 1785014037.000000
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Adder32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Adder32.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@adder32
+vALU
+R1
+!i10b 1
+!s100 ]YPT_gefZYW]mJh18W7Z`2
+I;b:=1lLVJe[z^HaPMDF>B3
+R2
+w1784576377
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALU.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALU.v
+!i122 14
+L0 1 24
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALU.v|
+!i113 0
+R6
+R0
+n@a@l@u
+vALUControl
+R1
+!i10b 1
+!s100 PJ^_>Q4nWCZiZT3[h90[F2
+IJ4<CUUKFNUEe0LBBECc7_3
+R2
+w1784576375
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALUControl.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALUControl.v
+!i122 15
+L0 1 37
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ALUControl.v|
+!i113 0
+R6
+R0
+n@a@l@u@control
+vControlUnit
+R1
+!i10b 1
+!s100 8mRm9_=B1G^CO4]cg]f712
+IWXhYA^4`7AhLRTIDdcQBO0
+R2
+w1784576373
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ControlUnit.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ControlUnit.v
+!i122 16
+L0 1 87
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ControlUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ControlUnit.v|
+!i113 0
+R6
+R0
+n@control@unit
+vCPU_TOP
+Z7 !s110 1785014038
+!i10b 1
+!s100 7W5DAo`I?ZEY709PPh79]0
+IFJUNXFU@H2T0i[JASO]R^3
+R2
+w1784576369
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/CPU_TOP.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/CPU_TOP.v
+!i122 17
+L0 3 190
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/CPU_TOP.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/CPU_TOP.v|
+!i113 0
+R6
+R0
+n@c@p@u_@t@o@p
+vCPU_TOP_tb
+R7
+!i10b 1
+!s100 6WiN30^bnAF=0`[j`ZVgP1
+IDfKH3TnB1WQfGcbnbCMJ[2
+R2
+w1785014020
+8C:\Users\ahmds\Desktop\Ahmed_Goda_FINAL_PROJECT\Codes\CPU_TOP_tb.v
+FC:\Users\ahmds\Desktop\Ahmed_Goda_FINAL_PROJECT\Codes\CPU_TOP_tb.v
+!i122 18
+L0 1 41
+R3
+R4
+r1
+!s85 0
+31
+Z8 !s108 1785014038.000000
+!s107 C:\Users\ahmds\Desktop\Ahmed_Goda_FINAL_PROJECT\Codes\CPU_TOP_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\ahmds\Desktop\Ahmed_Goda_FINAL_PROJECT\Codes\CPU_TOP_tb.v|
+!i113 0
+R6
+R0
+n@c@p@u_@t@o@p_tb
+vDataMemory
+R7
+!i10b 1
+!s100 ::nNDWM73Jhlg6<U3z0Cf1
+IMdAcSihC468TK[c`I2iS[2
+R2
+w1784576368
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/DataMemory.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/DataMemory.v
+!i122 19
+L0 1 21
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/DataMemory.v|
+!i113 0
+R6
+R0
+n@data@memory
+vImmGen
+R7
+!i10b 1
+!s100 lEFz3eem0LAkWAzHMda<X1
+I@ZDn]k5[=^cV?e^bXe=LM0
+R2
+w1784576366
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ImmGen.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ImmGen.v
+!i122 20
+L0 1 31
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ImmGen.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ImmGen.v|
+!i113 0
+R6
+R0
+n@imm@gen
+vInstructionMemory
+R7
+!i10b 1
+!s100 j]oW^AiJg4Ba9REdi<QI60
+Iz;i9[hdVbcF09eV2QXbFA2
+R2
+w1784576365
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/InstructionMemory.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/InstructionMemory.v
+!i122 21
+L0 1 11
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/InstructionMemory.v|
+!i113 0
+R6
+R0
+n@instruction@memory
+vMux2_32
+R7
+!i10b 1
+!s100 8R`[KGNXLSiiAFbHge4Th0
+I0Q>kSe0zEL=MaKQTVSS1n2
+R2
+w1784576363
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Mux2_32.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Mux2_32.v
+!i122 22
+L0 1 8
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Mux2_32.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/Mux2_32.v|
+!i113 0
+R6
+R0
+n@mux2_32
+vmux4_1
+R7
+!i10b 1
+!s100 i`I_FoQhJI^Po2TL^m<]k3
+IR4NQ4UCG;AZzeomkDQ2Q13
+R2
+w1784576361
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/mux4_1.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/mux4_1.v
+!i122 23
+L0 1 12
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/mux4_1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/mux4_1.v|
+!i113 0
+R6
+R0
+vpc
+R7
+!i10b 1
+!s100 Q[lmVGckzED793O8Z8d=E3
+I`XO[V2i?Wh0Y>IiTi1YiK3
+R2
+w1784576359
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ProgramCounter.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ProgramCounter.v
+!i122 24
+L0 1 18
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ProgramCounter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/ProgramCounter.v|
+!i113 0
+R6
+R0
+vRegisterFile
+R7
+!i10b 1
+!s100 RRYTOg:Rlc3c_@OHgzMWc3
+IWoNJhd75E;Ve5YJib6S6j3
+R2
+w1784576385
+8C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/RegisterFile.v
+FC:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/RegisterFile.v
+!i122 25
+L0 1 26
+R3
+R4
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/ahmds/Desktop/Ahmed_Goda_FINAL_PROJECT/Codes/RegisterFile.v|
+!i113 0
+R6
+R0
+n@register@file
